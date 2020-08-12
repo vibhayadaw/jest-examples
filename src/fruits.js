@@ -1,0 +1,1 @@
+export default (fruit='apple') => 'I like to eat '+ fruit;
